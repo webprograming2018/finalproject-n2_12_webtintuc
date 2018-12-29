@@ -1,0 +1,110 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.large-header {
+	width: 100%;
+	background: #333;
+	overflow: hidden;
+	background-size: cover;
+	background-position: center center;
+	background-image: url('../images/anh1.jpg');
+}
+.main-agileits {
+    width: 30%;
+    margin: 0 auto;
+}
+.top{
+	margin-top: 10px;
+}
+img {
+	max-width:100%;
+	max-height: auto;
+}
+input::-webkit-input-placeholder {
+color: #fff !important;
+}
+a{
+	text-decoration: none;
+	color: white;
+	float: right;
+	margin-right: 7px;
+	
+}
+a:hover{
+	color: blue;
+}
+.form-w3-agile h2 {
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    margin-bottom: 1em;
+    letter-spacing: 2px;
+}
+.form-w3-agile {
+    background: rgba(4, 4, 4, 0.56);
+    padding: 60px 40px;
+    margin-top: 50px;
+    margin-bottom: 105px;
+}
+h1 {
+    text-align: center;
+    font-size: 45px;
+    margin: 40px 0;
+    color: red;
+}
+span{
+	color: white;
+}
+form {
+    margin: 0 auto;
+    width: 100%;
+}
+.form-sub-w3{
+	position:relative;
+    margin-bottom: 20px;
+}
+.form-sub-w3 input[type="text"],input[type="password"] {
+    font-size: 15px;
+    color: #ffffff;
+    padding: 15px 40px 15px 10px;
+    width: 87%;
+    border: none;
+    border: 1px solid #DCCBCF;
+    margin-bottom: 10px;
+    background: transparent;
+}
+.form-sub-w3 input[type="password"] {
+    outline: none;
+    font-size: 15px;
+    color: #ffffff;
+    padding: 15px 40px 15px 10px;
+    width: 87%;
+    border: none;
+    border: 1px solid #DCCBCF;
+    margin-bottom: 10px;
+    background: transparent;
+}
+input[type="submit"] {
+    background: #4CAF50;
+    color: #000;
+    outline: none;
+    display: block;
+    margin: 0 auto;
+    padding: 7px 35px;
+    font-size: 16px;
+    margin-top: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: 1px solid #fff;
+}
+input[type="submit"]:hover{
+    background: green;
+	color: blue;
+}
+label {
+    color: black;
+    font-size: 22px;
+}
+
+
