@@ -29,3 +29,4 @@ b) Trang nguoi dung.
 - HTML, CSS, JS, 
 - Thu vien boostrap, jquery
 - Thu vien TinyMce
+- Servlet & JSP
